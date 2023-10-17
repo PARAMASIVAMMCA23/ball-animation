@@ -1,4 +1,4 @@
-#SIMULATION BALL MOVEMENT
+#BALL-ANIMATION
 
 ##Description:
 
